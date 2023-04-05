@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'uptaskfrontend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FDA83709CAB94FEDAC2E6DD93F9F49E0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51E4CA6E3BDD4E479E19EA9245559668 }}
           package: .
